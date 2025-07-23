@@ -49,8 +49,7 @@ public class AuthService
             {
                 "openid",
                 "profile",
-                "offline_access",
-                "api://c6fccf6a-40e2-4a9a-8887-60b86c621e43/access_as_user"
+                "offline_access"
             };
 
             var result = await cca.AcquireTokenByAuthorizationCode(scopes, authorizationCode)
