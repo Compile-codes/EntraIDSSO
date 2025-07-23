@@ -57,8 +57,8 @@ Make sure you have the following installed:
 #### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/entra-id-sso-mlvizz.git
-cd entra-id-sso-mlvizz
+git clone https://github.com/Compile-codes/EntraIDSSO.git
+cd EntraIDSSO
 ```
 
 #### 2. Set Environment Variable (🔑 Client Secret)
